@@ -1,2 +1,2 @@
-SE
+//This document is empty 
 ==
